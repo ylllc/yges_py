@@ -18,7 +18,7 @@ not yet.
 ## Testing
 
 Run test.sh to build this solution and run all test scenaria.
-You can add any directories and source files in test/scn/ to add your test scenaria.
+You can add any directories and source files in test/ to add your test scenaria.
 
 ### Partial Test
 
