@@ -1,0 +1,1 @@
+rem path [YourOwnPythonDirectory];[YourOpenJDKBinDirectory];[YourGraphVizDirectory];[YourDoxygenDirectory];%PATH%
